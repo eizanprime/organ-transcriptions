@@ -48,16 +48,16 @@ ManualOneVoiceTwoMusic = \absolute {
 %% 15
                 e'' 2 ~ e''16 d'' cis'' b' ais' b' cis'' 8  |
                 b' 8 b' b' ais' fis' 2  |
-                e' 4 fis' b' 8 e' 16 fis' gis' a' b' 8 
+                e' 4 fis' b' 8 e' 16 fis' gis' a' b' 8 ~
                 % warning: overlong bar truncated here |
-                \skip 8 a' 4 gis' 8 a' 2 -\tenuto ~ |
-                a'8 b' 16 c'' b' cis'' d'' 4 cis'' 16 b' cis'' dis'' e'' 8 
+                b' 8 a' 4 gis' 8 a' 2 -\tenuto ~ |
+                a'8 b' 16 c'' b' cis'' d'' 4 cis'' 16 b' cis'' dis'' e'' 8 ~
                 % warning: overlong bar truncated here |
 %% 20
-                \skip 8 dis'' 16 cis'' dis'' e'' fis'' 8. dis'' 16 e'' b' e' 4 -\tenuto ~ |
-                e'16 cis' e' a' cis'' 8 a' 4 cis'' 16 d'' d' 4 
+                e'' 8 dis'' 16 cis'' dis'' e'' fis'' 8. dis'' 16 e'' b' e' 4 -\tenuto ~ |
+                e'16 cis' e' a' cis'' 8 a' 4 cis'' 16 d'' d' 4 ~
                 % warning: overlong bar truncated here |
-                \skip 8 e' 8 fis' 4 g' 2 -\tenuto ~ |
+                d' 8 e' 8 fis' 4 g' 2 -\tenuto ~ |
                 g'8 b' e'' 4 -\tenuto ~ e''16 d'' cis'' b' a' 8 b'  |
                 a' 4 g' 16 fis' g' 8 fis' 2  |
 %% 25
@@ -83,13 +83,13 @@ ManualTwoMusic = \absolute {
                 b 8 b' a' 16 gis' a' 8 gis' 8. fis' 16 e' 4 ~ 
                 % warning: overlong bar truncated here |
                 e' 8 e' 8 fis' e' e' 8. d' 16 cis' d' e' cis'  |
-                a 8 d' 4 b e' cis' 8 
+                a 8 d' 4 b e' cis' 8 ~
                 % warning: overlong bar truncated here |
 %% 20
-                \skip 8 fis' 4 dis' 8 b 4 -\tenuto ~ b16 b' g' e'  |
-                a' 8 g' fis' e' d' 4 a' 
+                cis' 8 fis' 4 dis' 8 b 4 -\tenuto ~ b16 b' g' e'  |
+                a' 8 g' fis' e' d' 4 a' ~
                 % warning: overlong bar truncated here |
-                \skip 8 g' 8 a' 4 d' 2  |
+                a' 8 g' 8 a' 4 d' 2  |
                 e' 16 b e' g' b' a' g' fis' e' 8 a' 4 g' 8  |
                 fis' 4 e' 8 a a 2  |
 %% 25
